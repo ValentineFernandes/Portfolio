@@ -15,8 +15,8 @@
 # Visit the website here
 <a href="https://valentinefernandes.github.io/Portfolio/">
 <img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
-&nbsp;<a href=https://portfoliowebsiteapp.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
-&nbsp;<a href="https://portfolio-valentinefernandes.vercel.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/vercel.png"></a>
+&nbsp;<a href="https://portfoliowebsiteapp.netlify.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
+&nbsp;<a href="https://portfolio-seven-zeta-11.vercel.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/vercel.png"></a>
 
 # License
 This project is under <a href="https://github.com/ValentineFernandes/Portfolio/blob/main/LICENSE">MIT</a> license. 
