@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
 
 # Visit the website here
-<a href="https://valentinefernandes.github.io/Portfolio/"> 
+<a href="https://valentinefernandes.github.io/Portfolio/">  
 <img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
 &nbsp;<a href="https://portfoliowebappl.netlify.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
 &nbsp;<a href="https://portfolio-gray-iota.vercel.app/"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/vercel.png"></a>
