@@ -422,7 +422,7 @@ ul li a:hover{
     padding: 0px;
     display: flex;
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%);
 }
