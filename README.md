@@ -1,5 +1,5 @@
 # Portfolio
-✅ This is my portfolio with my short intro.<br/> 
+✅ This is my portfolio with my short intro.<br/>  
 ✅ This portfolio is mobile friendly.
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img7.jpg"> 
 
