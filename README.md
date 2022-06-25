@@ -1,7 +1,12 @@
-# Portfolio
-✅ This is my portfolio with my short intro.<br/>  
+<h1 align="center">Portfolio</h1>
+
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/portfoliosc.jpg"> 
+</div>
+
+# Features 
+✅ This is my portfolio with my short intro.<br>
 ✅ This portfolio is mobile friendly.
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img7.jpg"> 
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
